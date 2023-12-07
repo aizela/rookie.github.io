@@ -18,7 +18,7 @@
                <key>needs-shine</key>
                <integer>0</integer>
                <key>url</key>
-               <string><![CDATA[https://raw.githubusercontent.com/aizela/rookie.github.io/master/logo.png]]></string>
+               <string><![CDATA[https://github.com/aizela/rookie.github.io/raw/master/logo.png]]></string>
              </dict>
              <dict>
                <key>kind</key>
@@ -26,7 +26,7 @@
                <key>needs-shine</key>
                <true/>
                <key>url</key>
-               <string><![CDATA[https://raw.githubusercontent.com/aizela/rookie.github.io/master/logo.png]]></string>
+               <string><![CDATA[https://github.com/aizela/rookie.github.io/raw/master/logo.png]]></string>
              </dict>
            </array>
            <key>metadata</key>
