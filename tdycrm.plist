@@ -10,7 +10,7 @@
                <key>kind</key>
                <string>software-package</string>
                <key>url</key>
-               <string><![CDATA[https://raw.githubusercontent.com/aizela/rookie.github.io/master/tdycrm.ipa]]></string>
+               <string><![CDATA[https://github.com/aizela/rookie.github.io/raw/master/tdycrm.ipa]]></string>
              </dict>
              <dict>
                <key>kind</key>
